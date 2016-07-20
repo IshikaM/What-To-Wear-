@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title> what to wear | Choosing outfits made easy. </title>
+	</head>
+		<body style="background-color:rgb(241,193,187);border:5px black solid;"> 
+
+		<h1 style="color:white;font-family:kelvetica;" align="center"> WHAT TO WEAR </h1>
+
+		<a href="homepage.html"><center><img src="whattowearlogo.png"></img></center></a>
+
+		<h1 style="color:white;font-family:kelvetica; text-deoration:underline" align="center"> LOG IN </h1>
+
+		<h2 style="color:white;font-family:kelvetica; text-decoration:underline" align="center"> EMAIL ADDRESS: </h2>
+
+		<center><input></input>
+
+		<h2 style="color:white;font-family:kelvetica; text-decoration:underline" align="center"> PASSWORD: </h2>
+
+		<center><input></input>
+
+		<h4 style="color:white;font-family:kelvetica; text-decoration:underline" align="right corner"> FORGOT PASSWORD? 
+		</h4>
+
+		<center><a href="startpage.html"><button>log in</button></a></center>
+
+	</body>
+
+</html>
