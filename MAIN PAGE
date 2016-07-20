@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script type="text/javascript" src="outfitgenerator.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title> what to wear | Choosing outfits made easy. </title>
+	</head> 
+		<body style="background-color:rgb(241,193,187);border:5px black solid;"> 
+
+		<h1 style="color:white;font-family:kelvetica;" align="center">what to wear</h1>
+
+		<a href="startpage.html"><center><img src="whattowearlogo.png"></img></center></a>
+
+		<h1 style="color:white;font-family:kelvetica;" align="center">choosing outfits made easy.</h1> 
+
+		<a href="login.html"><h2 style="color:white;font-family:kelvetica; text-decoration:underline;"align= "center"> LOGIN</h2></a>
+
+		<a href="signup.html"><h2 style="color:white;font-family:kelvetica; text-decoration:underline" align= "center"> SIGN UP</h2></a>
+
+		<center><button onclick="generateOutfit()" class="generateoutfit">Generate Outfit</button></center>
+
+
+</html>
